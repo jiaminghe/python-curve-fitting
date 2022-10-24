@@ -1,9 +1,3 @@
-from scipy import optimize
-from matplotlib.ticker import AutoMinorLocator
-from matplotlib import gridspec
-import matplotlib.ticker as ticker
-import pandas as pd
-import math
 
 #this equations are based on the supplemental information of doi: 10.1073/pnas.1908956116, one to four peaks variations were listed. 
 
