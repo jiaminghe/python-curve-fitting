@@ -1,1 +1,2 @@
-# python-curve-fitting
+Python Curve Fitting
+
